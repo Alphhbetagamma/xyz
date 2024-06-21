@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3A0DCE9F-CFDA-4AD7-9628-0FF2B0F753DA}"
+	ProjectSection(SolutionItems) = preProject
+		db.json = db.json
+		tsconfig.json = tsconfig.json
+		db.json.txt = db.json.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E0BD3AA3-9BBF-49CC-B06B-FF1C8E6BD8DA}"
+	ProjectSection(SolutionItems) = preProject
+		package.json = package.json
+		server.js = server.js
+		server.ts = server.ts
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFEF256A-5A2F-4F61-B99A-80EB881D12A7}
+	EndGlobalSection
+EndGlobal
